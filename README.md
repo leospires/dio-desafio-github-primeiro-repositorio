@@ -5,5 +5,5 @@ Repositório criado para o Desafio de projeto.
 ## Mapeamento do repositório:
 ### - Index: Código html;
 ### - Pasta CSS: Arquivo de estilo CSS;
-### - Pasta Imgagens: Arquivo de imagens utilizadas no blog.
+### - Pasta Imagens: Arquivo de imagens utilizadas no blog.
 
